@@ -19,7 +19,7 @@
 
 ___
 ### :woman_technologist: О себе :
-Я хочу стать Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Я хочу стать senior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: Я учусь в колледже на программиста, но в основном я занимаюсь вне колледжа, потому что люблю это дело. 
 
