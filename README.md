@@ -47,3 +47,5 @@ ___
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A1exeyevich&theme=dark&locale=ru)](https://git.io/streak-stats)
 ___
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A1exeyevich)](https://github.com/anuraghazra/github-readme-stats)
