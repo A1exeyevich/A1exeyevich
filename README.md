@@ -1,16 +1,43 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="150"/>
+</div>
 
-<!--
-**A1exeyevich/A1exeyevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  Мой канал:
+  <a href="https://t.me/a1exeyvich">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram`&logoColor=white" alt="Telegtam Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=A1exeyevich&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+___
+### :woman_technologist: О себе :
+Я хочу стать Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: Я учусь в колледже на программиста, но в основном я занимаюсь вне колледжа, потому что люблю это дело. 
+
+- :seedling: Люблю решать сложные для себя задачи.
+
+- :zap: В свободное время я люблю смотреть и читать проекты других программистов.
+
+- :mailbox:Связаться со мной можно в: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram`&logoColor=white)](https://t.me/luccyass)
+___
+
+### :hammer_and_wrench: Языки и инструменты :
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Arduino"  alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="linux"  alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg" title="WordPress"  alt="WordPress" width="40" height="40"/>&nbsp
+</div>
