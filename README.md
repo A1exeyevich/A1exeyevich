@@ -13,10 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=A1exeyevich&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ___
 ### :woman_technologist: О себе :
 Я хочу стать senior developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
