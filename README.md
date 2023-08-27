@@ -23,7 +23,7 @@ ___
 
 - :zap: В свободное время я люблю смотреть и читать проекты других программистов.
 
-- :mailbox:Связаться со мной можно в: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram`&logoColor=white)](https://t.me/luccyass)
+- :mailbox:Связаться со мной можно в: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram`&logoColor=white)](https://t.me/@a1_exe_yevich)
 ___
 
 ### :hammer_and_wrench: Языки и инструменты :
