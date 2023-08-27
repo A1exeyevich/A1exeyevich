@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   Мой канал:
-  <a href="https://t.me/@a1_exe_yevich">
+  <a href="https://t.me/a1_exe_yevich">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram`&logoColor=white" alt="Telegtam Badge"/>
   </a>
 </div>
@@ -23,7 +23,7 @@ ___
 
 - :zap: В свободное время я люблю смотреть и читать проекты других программистов.
 
-- :mailbox:Связаться со мной можно в: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram`&logoColor=white)](https://t.me/@a1_exe_yevich)
+- :mailbox:Связаться со мной можно в: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram`&logoColor=white)](https://t.me/a1_exe_yevich)
 ___
 
 ### :hammer_and_wrench: Языки и инструменты :
